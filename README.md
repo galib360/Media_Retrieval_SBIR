@@ -18,3 +18,5 @@ FinalTrain.py is the python script to train the model.
 
 Model: 
 sketchmodel125final.h5 is the saved weights from the final training.
+
+SBIR_report.pdf is the project report.
